@@ -218,3 +218,20 @@ src/
 │   └── enums/  ← Enums ligados a interfaces ou apresentação
 
 ```
+
+---
+
+<!-- github-standardizer:start -->
+## Overview
+
+Modular architecture example using Clean Architecture and Domain-Driven Design.
+
+## Technology indicators
+
+- Java / Maven
+
+## Getting started
+
+Check the project manifests and existing documentation for supported setup commands. No installation instructions were inferred.
+
+<!-- github-standardizer:end -->
